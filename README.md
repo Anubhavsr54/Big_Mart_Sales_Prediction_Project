@@ -4,7 +4,7 @@ Primary aim of this project is to build machine learning model that give the sho
 different stores of Big Mart according to the provided dataset.
 
 [You can reach the application here]
-https://salespredictionapp.herokuapp.com/
+
 
 
 # Problem statement
