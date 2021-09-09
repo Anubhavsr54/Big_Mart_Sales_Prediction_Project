@@ -38,7 +38,7 @@ The data-set is also based on hypotheses of store level and product level. Where
 
 #### 3) Home Page:
 
-![alt-text](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/Application_Home_Page.jpg)
+![alt-text](https://github.com/Anubhavsr54/Big_Mart_Sales_Prediction_Project/blob/main/Screenshots/Application_Home_Page.jpg?raw=true)
 
 
 #### 4) Result Prediction page:
