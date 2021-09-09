@@ -16,7 +16,7 @@ anomalies and common patterns can be discovered.
 # Project is handled in a structured way with modular coding.
 Below is the work flow if this project
 
-![alt-text](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/arch.png)
+![alt-text](https://github.com/Anubhavsr54/Big_Mart_Sales_Prediction_Project/blob/main/Screenshots/arch.png?raw=true)
 
 
 # Dataset Description 
@@ -28,12 +28,12 @@ The data-set is also based on hypotheses of store level and product level. Where
 
 #### 1) Training:
 
-![alt-text](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/Training_Result.jpg)
+![alt-text](https://github.com/Anubhavsr54/Big_Mart_Sales_Prediction_Project/blob/main/Screenshots/Training_Result.jpg?raw=true)
 
 
 #### 2) Project video:
 
-![alt-text](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/screen.gif)
+![alt-text](https://github.com/Anubhavsr54/Big_Mart_Sales_Prediction_Project/blob/main/Screenshots/screen.gif?raw=true)
 
 
 #### 3) Home Page:
@@ -43,4 +43,4 @@ The data-set is also based on hypotheses of store level and product level. Where
 
 #### 4) Result Prediction page:
 
-![alt-text](https://github.com/shivanshjayara/BigMart_Sales_Prediction/blob/master/Screenshots/Prediction_Result_Page.jpg)
+![alt-text](https://github.com/Anubhavsr54/Big_Mart_Sales_Prediction_Project/blob/main/Screenshots/Prediction_Result_Page.jpg?raw=true)
